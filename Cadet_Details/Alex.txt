@@ -1,6 +1,4 @@
-Name:Alex John Jacob
-Sex:Male
-Age:22
-Native Place:Kerala
-Educational Qualification:B Tech in ECE
+Name:alex John Jacob
+E-mail id:alexjohnjacob@gmail.com
+phone number: 8281486456
 
